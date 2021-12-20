@@ -38,3 +38,11 @@ I started learning html and css about 8 months ago by myself.  Well, I started m
 
 ## Experience
 I have little experience in JS and Frontend development. At the moment, 4 months.
+
+## Education
+4 intensive courses. The last one - in JS, creating a game where a lot was not clear for me. But I also learned a lot.
+[need-for-js](https://wolf-den1994.github.io/need-for-js/) source code at [GitHub](https://github.com/Wolf-Den1994/need-for-js).
+Also the previous course at RS School 2020Q3.
+
+## English
+I try to learn English in every possible way. Smartphone: Simpler, Duolingo. I use google translate a lot.  But it happens when I can read the text "*between the lines*" and understand the meaning. Passed the test, showed A2.
