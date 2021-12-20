@@ -45,4 +45,4 @@ I have little experience in JS and Frontend development. At the moment, 4 months
 Also the previous course at RS School 2020Q3.
 
 ## English
-I try to learn English in every possible way. Smartphone: Simpler, Duolingo. I use google translate a lot.  But it happens when I can read the text "*between the lines*" and understand the meaning. Passed the test, showed A2.
+I try to learn English in every possible way. Smartphone: Simpler, Duolingo. I use google translate a lot.  But it happens when I can read the text "*between the lines*" and understand the meaning. Passed the test, showed A2..
